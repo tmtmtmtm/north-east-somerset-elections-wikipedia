@@ -1,0 +1,21 @@
+id,name,party,partyLabel,votes,election,electionLabel,ranking
+Q574980,Jacob Rees-Mogg,Q9626,Conservative Party (UK),28360,Q30173038,General election 2019,1
+,Mark Huband,Q9630,Labour Party (UK),13631,Q30173038,General election 2019,2
+,Nick Coates,Q9624,Liberal Democrats (UK),12422,Q30173038,General election 2019,3
+,Fay Whitfield,Q9669,Green Party of England and Wales,1423,Q30173038,General election 2019,4
+,Shaun Hughes,Q327591,Independent politician,472,Q30173038,General election 2019,5
+Q574980,Jacob Rees-Mogg,Q9626,Conservative Party (UK),28992,Q25052149,General election 2017,1
+,Robin Moss,Q9630,Labour Party (UK),18757,Q25052149,General election 2017,2
+,Manda Rigby,Q9624,Liberal Democrats (UK),4461,Q25052149,General election 2017,3
+,Sally Calverley,Q9669,Green Party of England and Wales,1245,Q25052149,General election 2017,4
+,Shaun Hughes,Q327591,Independent (politician),588,Q25052149,General election 2017,5
+Q574980,Jacob Rees-Mogg,Q9626,Conservative Party (UK),25439,Q3586935,General election 2015,1
+,Todd Foreman,Q9630,Labour Party (UK),12690,Q3586935,General election 2015,2
+,Ernest Blaber,Q10647,UK Independence Party,6150,Q3586935,General election 2015,3
+Q30164280,Wera Hobhouse,Q9624,Liberal Democrats (UK),4029,Q3586935,General election 2015,4
+,Katy Boyce,Q9669,Green Party of England and Wales,2802,Q3586935,General election 2015,5
+Q574980,Jacob Rees-Mogg,Q9626,Conservative Party (UK),21130,Q215622,General election 2010,1
+Q5214105,Dan Norris,Q9630,Labour Party (UK),16216,Q215622,General election 2010,2
+,Gail Coleshill,Q9624,Liberal Democrats (UK),11433,Q215622,General election 2010,3
+,Peter Sandell,Q10647,UK Independence Party,1754,Q215622,General election 2010,4
+,Michael Jay,Q9669,Green Party of England and Wales,670,Q215622,General election 2010,5
